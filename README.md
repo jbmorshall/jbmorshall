@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jbmorshall
 - 👀 I’m interested in ...seeing Africa Digitalised
 - 🌱 I’m currently learning ..software Engeneering.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...software engeneering
 - 📫 How to reach me ...jbmmorshall@gmail.com
 
 <!---
